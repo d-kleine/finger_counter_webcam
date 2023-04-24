@@ -1,1 +1,1 @@
-# finger_counter_webcam
+# Finger counter with OpenCV and MediaPipe
