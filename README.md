@@ -4,6 +4,8 @@ This is a simple finger counter program that uses OpenCV and MediaPipe to detect
 
 The program displays the camera feed with the detected hand landmarks and the finger count. The finger count is updated in real-time as the user changes the number of fingers that are extended.
 
+<img src="https://github.com/d-kleine/finger_counter_webcam/blob/main/webcam.gif">
+
 **Installation**
 
 To run this program, you need to install the following dependencies:
